@@ -12,5 +12,6 @@ public class git_ {
         System.out.println("hello git4===hot-fix");
         System.out.println("master test");
         System.out.println("hot-fix test");
+         System.out.println("pull test");
     }
 }
